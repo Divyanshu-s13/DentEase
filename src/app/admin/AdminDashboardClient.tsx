@@ -1,7 +1,7 @@
 "use client";
 
 import AdminStats from "@/components/admin/AdminStats";
-import DoctorsManagement from "@/components/admin/DoctorsManagement";
+import DoctorsManagement from "@/components/admin/DoctorsMangement";
 import RecentAppointments from "@/components/admin/RecentAppointments";
 import Navbar from "@/components/Navbar";
 import { useGetAppointments } from "@/hooks/use-appointment";
